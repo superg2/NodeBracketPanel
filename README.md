@@ -6,6 +6,6 @@ In progress
 
 
 ### Special infos :
-- fueled by CakePHP 2.4.x (a minima)
+- fueled by [kirbytoolkit][http://toolkit.getkirby.com/]
 - skinned by BottStrap Twitter v3.x
 - designed to be at least interfaceable with BrightGamePanel !
